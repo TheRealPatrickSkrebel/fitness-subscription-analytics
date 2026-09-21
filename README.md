@@ -10,7 +10,7 @@ This project analyzes customer cohort behavior, lifetime value (LTV), customer a
 ## Key Insights & Visualizations
 
 ### 1. CAC vs. LTV Analysis
-![CAC vs LTV](screenshots/CAC vs LTV.png)
+![CAC vs LTV](screenshots/cac vs ltv.png)
 - **Payback Period:** Customer acquisition costs ($178.07) are fully recovered around Month 4–5 across cohorts.
 - **LTV Progression:** Long-term cohort performance reaches an LTV ratio above 2.4x CAC over 24 months.
 
