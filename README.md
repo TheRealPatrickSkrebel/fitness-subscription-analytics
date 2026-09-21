@@ -15,7 +15,7 @@ This project analyzes customer cohort behavior, lifetime value (LTV), customer a
 - **LTV Progression:** Long-term cohort performance reaches an LTV ratio above 2.4x CAC over 24 months.
 
 ### 2. Customer Cohort Analysis
-![Cohort Analysis](screenshots/cohort_analysis.png)
+![Cohort Analysis](screenshots/customer_cohort.png)
 - Evaluates retention dynamics and revenue trends across signup cohorts.
 
 ### 3. Revenue Forecast
@@ -23,5 +23,5 @@ This project analyzes customer cohort behavior, lifetime value (LTV), customer a
 - Models future monthly recurring revenue based on historical churn and subscription performance.
 
 ### 4. Data Model
-![Data Model](screenshots/data_model.png)
+![Data Model](screenshots/data_source.png)
 - Relationships and data transformations connecting customer accounts and transaction histories.
